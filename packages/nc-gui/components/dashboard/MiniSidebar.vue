@@ -212,7 +212,7 @@ useEventListener(document, 'keydown', async (e: KeyboardEvent) => {
             hide-on-click
             :arrow="false"
           >
-            <DashboardSidebarFeed />
+<!--            <DashboardSidebarFeed />-->св
           </NcTooltip>
         </DashboardMiniSidebarItemWrapper>
 
